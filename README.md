@@ -1,3 +1,5 @@
+* [French version](README.fr.md)
+
 # cidr2ip
 Little script to convert CIDR notation to distinct IP addresses.
 
@@ -9,7 +11,7 @@ As the original respository for this script has vanished, and with the licence p
 
 ## Usage
 It's as simple as calling the script with the CIDR range as parameter :
-```sh
+```bash
 [seboss666@seboss666-pc ~ ]$ cidr2ip 192.168.1.0/24
 192.168.1.0
 192.168.1.1
