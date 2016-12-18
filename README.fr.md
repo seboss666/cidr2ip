@@ -4,7 +4,7 @@
 Petit script pour convertir la notation CIDR en adresses IP distinctes.
 
 ## À propos
-Étant donné que le dépôt original a disparu, et comme la licence le permet, je republic ce script Perl.
+Étant donné que le dépôt original a disparu, et comme la licence le permet, je republie ce script Perl.
 
 * Auteur original : [Steve Kemp](https://steve.fi/)
 * Licence : Comme mentionné dans le script, il utilise la même que Perl (GPLv1 si je suis le README de Perl 5.24). Fait intéressant, le script contient à la fois une mention Copyright ET Logiciel Libre.

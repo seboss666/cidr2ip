@@ -23,8 +23,8 @@ It's as simple as calling the script with the CIDR range as parameter :
 ```
 
 ## Installation
-Just download the script or clone this repository, and be sure to have it somewhere in your `PATH` environment variable. Oviously, you need Perl installed.
+Just download the script or clone this repository, and be sure to have it somewhere in your `PATH` environment variable. Obviously, you need Perl installed.
 
 ## Known Limitations
-It's only usable for IPv4 addresses. You also has to use a shell pipe and grep/less/whatever to search through results.
+It's only usable for IPv4 addresses. You also have to use a shell pipe and grep/less/whatever to search through results.
 
